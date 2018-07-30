@@ -1,0 +1,29 @@
+p{
+    color: #b76666;
+}
+a:any-link{
+    color: purple;
+}
+u{
+    text-decoration: underline;
+}
+h1, h2{
+    color: lightslategray;
+    font-family: Arial;
+}
+.green{
+    color: green;
+    font-family: Arial;
+}
+.lightblue{
+    color: blue;
+    font-family: Arial;
+}
+.blue{
+    color: mediumpurple;
+    font-family: Arial;
+}
+.red{
+    color: #b76666;
+    font-family: Arial;
+}
